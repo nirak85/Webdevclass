@@ -1,2 +1,0 @@
-# Webdevclass
-Created with CodeSandbox
